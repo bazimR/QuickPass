@@ -2,7 +2,7 @@
 //  QuickPassApp.swift
 //  QuickPass
 //
-//  Created by Rishal Bazim on 18/04/25.
+//  Created by Rishal Bazim on 15/04/25.
 //
 
 import SwiftUI
